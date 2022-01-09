@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vincent/Workspace/mlflow-s3-integration/mlruns/0/4518fca20ce7489c9286a10374d6f768/artifacts
+end_time: 1641732758188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4518fca20ce7489c9286a10374d6f768
+run_uuid: 4518fca20ce7489c9286a10374d6f768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641732756472
+status: 3
+tags: []
+user_id: vincent
